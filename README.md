@@ -1,4 +1,4 @@
-## word-bingo
+# word-bingo
 
 WordBingoTask
 

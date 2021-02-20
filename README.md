@@ -1,6 +1,6 @@
 # word-bingo
 
-WordBingoTask
+It is a WordBingo made of TypeScript
 
 # Requirement
 
